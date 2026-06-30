@@ -50,6 +50,5 @@ docker-compose.override.yml
 _bmad/
 _bmad-output/
 .agents/
-docs/
 *.user.toml
 .memlog.md

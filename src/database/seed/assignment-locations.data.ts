@@ -39,7 +39,7 @@ const alwaysOpen = {
   type: 'ALWAYS_OPEN' as const,
 };
 
-/** 15 assignment nodes per docs/database-design.md Sample Data Mapping. */
+/** Assignment sample location tree (15 nodes). */
 export const ASSIGNMENT_LOCATIONS: AssignmentLocationSeed[] = [
   { locationNumber: 'A', name: 'Building A', parentLocationNumber: null },
   { locationNumber: 'B', name: 'Building B', parentLocationNumber: null },
